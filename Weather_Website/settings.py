@@ -25,7 +25,7 @@ SECRET_KEY = 'zkc2-cdtexfz!m7igbpo2%3pctm^ybhp!ui6rthla_(gq*(_ga'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['amindi.herokuapp.com/']
+ALLOWED_HOSTS = ['https://amindi.herokuapp.com/']
 
 
 # Application definition
