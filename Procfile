@@ -1,1 +1,1 @@
-web: gunicorn Weather_Website.wsgi --log-file -
+web: gunicorn Weather_Website.wsgi --timeout 15 --keep-alive 5 --log-level debug
